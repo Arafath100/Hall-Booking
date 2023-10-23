@@ -79,12 +79,12 @@
 
 ## API Endpoints:
 
-• `POST /create-room:` Create a room.
-• `POST /book-room:` Book a room.
-• `GET /rooms:` List all rooms.
-• `GET /rooms-with-bookings:` List all rooms with their bookings.
-• `GET /customers-with-bookings:` List all customers with their bookings.
-• `GET /customer-booking-history/:customerName:` List a customer's booking history.
+• `POST /create-room:` Create a room. <br/>
+• `POST /book-room:` Book a room. <br/>
+• `GET /rooms:` List all rooms. <br/>
+• `GET /rooms-with-bookings:` List all rooms with their bookings. <br/>
+• `GET /customers-with-bookings:` List all customers with their bookings. <br/>
+• `GET /customer-booking-history/:customerName:` List a customer's booking history. <br/>
 
 ## Contributing:
 
