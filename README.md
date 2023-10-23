@@ -28,7 +28,7 @@
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Arafath100/Hall-booking.git
+   git clone https://github.com/Arafath100/Hall-Booking.git
    cd hall-booking
 
 2. Install dependencies:
